@@ -28,13 +28,13 @@ pip install -r requirements.txt
 
 1. **Update Configuration:**
 
-   - Set `CPU_THRESHOLD` (default: `80%`).
+   - Set `CPU_THRESHOLD` (default: `70%`).
    - Replace `alert.mp3` with your sound file.
 
 2. **Run the script:**
 
 ```sh
-python cpu_monitor.py
+python monitor.py
 ```
 
 ## Code Overview
