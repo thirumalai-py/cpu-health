@@ -49,7 +49,7 @@ import time
 from playsound import playsound
 
 CPU_THRESHOLD = 70  
-ALERT_SOUND = "alert.mp3"
+ALERT_SOUND = "/media/alert.mp3"
 
 while True:
     try:
