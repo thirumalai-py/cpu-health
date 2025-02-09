@@ -7,7 +7,7 @@ Script to monitor CPU health in mac or windows local machine and raise sound if 
 
 # CPU Threshold
 CPU_THRESHOLD = 70
-ALERT_SOUND = "/media/alert.mp3"
+ALERT_SOUND = "alert.mp3"
 INTERVAL = 2 # Sets the time interval on which the psutil has to check the cpu_percent
 
 while True:
