@@ -75,9 +75,8 @@ while True:
 
 ![alt text](/media/output.png)
 
-## License
-
-This project is open-source under the MIT License.
+## Author
+Thirumalai Raja - https://github.com/thirumalai-py/
 
 ---
 
